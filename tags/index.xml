@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tksaha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -16,12 +18,20 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tksaha.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
+      <title>Bio-informatics</title>
+      <link>https://tksaha.github.io/tags/bio-informatics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/bio-informatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-learning</title>
       <link>https://tksaha.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -30,29 +40,65 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>https://tksaha.github.io/tags/demo/</link>
+      <title>Funstuff</title>
+      <link>https://tksaha.github.io/tags/funstuff/</link>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/funstuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lego</title>
+      <link>https://tksaha.github.io/tags/lego/</link>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/lego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural language processing</title>
+      <link>https://tksaha.github.io/tags/natural-language-processing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/tags/demo/</guid>
+      <guid>https://tksaha.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://tksaha.github.io/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <title>Network-analysis</title>
+      <link>https://tksaha.github.io/tags/network-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/tags/hugo/</guid>
+      <guid>https://tksaha.github.io/tags/network-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>https://tksaha.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Nlp</title>
+      <link>https://tksaha.github.io/tags/nlp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/tags/jekyll/</guid>
+      <guid>https://tksaha.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-mining</title>
+      <link>https://tksaha.github.io/tags/text-mining/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toastmaster</title>
+      <link>https://tksaha.github.io/tags/toastmaster/</link>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/toastmaster/</guid>
       <description></description>
     </item>
     

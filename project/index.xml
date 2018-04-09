@@ -8,33 +8,53 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tksaha.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://tksaha.github.io/project/deep-learning/</link>
+      <title>Name Disambiguation</title>
+      <link>https://tksaha.github.io/project/name-disambiguation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <guid>https://tksaha.github.io/project/name-disambiguation/</guid>
+      <description>Entity disambiguation is not a new problem. In fact, named entity disambiguation has been a long standing problem in the field of bibliometrics and library science. The key reason for this is that many distinct authors share the same name, specifically considering the fact that the first name of an author is typically written in abbreviated form in the citation of many scientific journals. Thus, bibliographic servers that maintain such data may mistakenly aggregate the records from different persons into a single entity.</description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://tksaha.github.io/project/example-external-project/</link>
+      <title>Network Analysis and Mining</title>
+      <link>https://tksaha.github.io/project/netanalysis-mining/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/project/example-external-project/</guid>
-      <description></description>
+      <guid>https://tksaha.github.io/project/netanalysis-mining/</guid>
+      <description>The main objective of Frequent Subgraph Mining (FSM) is finding subgraph patterns that are frequent across a collection of graphs. Another important task is to find subgraphs which are candidate for motif in a given network. For this, we need to count each topology&amp;rsquo;s frequency in the input network as well as in many randomized networks. Counting a topology&amp;rsquo;s frequency in a single network is a challenging task as it requires solving subgraph isomorphism, a known $NP$-complete problem.</description>
+    </item>
+    
+    <item>
+      <title>Representation Learning of Network Units</title>
+      <link>https://tksaha.github.io/project/representation-netunit/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/representation-netunit/</guid>
+      <description>In classical machine learning, hand-designed features are used for learning a mapping from the features. However, recently, there is a surge of research in representation learning which aims to learn abstract features given the input. For networks, representation learned for nodes and edges has been used for tasks, such as link prediction, collective classification, and many others. In my PhD thesis, I have crafted methods for learning representation for both the sentences and the network nodes/edges.</description>
+    </item>
+    
+    <item>
+      <title>Representation Learning of Textual Units</title>
+      <link>https://tksaha.github.io/project/representation-text/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/representation-text/</guid>
+      <description>In classical machine learning, hand-designed features are used for learning a mapping from the features. However, recently, there is a surge of research in representation learning which aims to learn abstract features given the input. For textual domain, representation learning focuses on learning important semantic information from words, phrases, sentences or any arbitrary unit of texts, such as paragraphs and documents. The learned representation can be used in various data mining tasks, such as classification, clustering, summarization and many others.</description>
+    </item>
+    
+    <item>
+      <title>Total Recall</title>
+      <link>https://tksaha.github.io/project/totalrecall/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/totalrecall/</guid>
+      <description>Total Recall is an important task in supervised text mining. The objective of this task is to find everything about an entity or about a research question. For example, in Technology assisted review (TAR), the objective is to find all the documents relevant to a request for production in a legal matter, whereas, Systematic Review (SR) involves formulating a research question, searching in multiple biomedical databases, identifying relevant Randomized Control Trails (RCTs) based on abstracts and titles (abstract screening) and then based on full texts of a subset thereof, assessing their methodological qualities, extracting different data elements and synthesize them, and finally reporting the conclusions on a particular review question.</description>
     </item>
     
   </channel>

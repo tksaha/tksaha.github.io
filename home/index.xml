@@ -8,7 +8,46 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tksaha.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tksaha.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/home/about/</guid>
+      <description>Biography I have defended my PhD thesis and graduating in May, 2018 from Purdue University, West Lafayette. My research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my PhD thesis. [Sen2Vec Code,Temporal node2vec Code, Motif Finding Code, Frequent Subgraph Mining Code, Finding Functional Motif Code].
+During my PhD, I had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://tksaha.github.io/home/publications_selected/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://tksaha.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://tksaha.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tksaha.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/home/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
