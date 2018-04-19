@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network-analysis on Tanay Kumar Saha</title>
+    <link>https://tksaha.github.io/tags/network-analysis/</link>
+    <description>Recent content in Network-analysis on Tanay Kumar Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tanay Kumar Saha</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tksaha.github.io/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name Disambiguation</title>
+      <link>https://tksaha.github.io/project/name-disambiguation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/name-disambiguation/</guid>
+      <description>Entity disambiguation is not a new problem. In fact, named entity disambiguation has been a long standing problem in the field of bibliometrics and library science. The key reason for this is that many distinct authors share the same name, specifically considering the fact that the first name of an author is typically written in abbreviated form in the citation of many scientific journals. Thus, bibliographic servers that maintain such data may mistakenly aggregate the records from different persons into a single entity.</description>
+    </item>
+    
+    <item>
+      <title>Network Analysis and Mining</title>
+      <link>https://tksaha.github.io/project/netanalysis-mining/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/netanalysis-mining/</guid>
+      <description>The main objective of Frequent Subgraph Mining (FSM) is finding subgraph patterns that are frequent across a collection of graphs. Another important task is to find subgraphs which are candidate for motif in a given network. For this, we need to count each topology&amp;rsquo;s frequency in the input network as well as in many randomized networks. Counting a topology&amp;rsquo;s frequency in a single network is a challenging task as it requires solving subgraph isomorphism, a known $NP$-complete problem.</description>
+    </item>
+    
+  </channel>
+</rss>

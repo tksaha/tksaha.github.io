@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funstuff on Tanay Kumar Saha</title>
+    <link>https://tksaha.github.io/tags/funstuff/</link>
+    <description>Recent content in Funstuff on Tanay Kumar Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
+    <lastBuildDate>Thu, 07 Dec 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tksaha.github.io/tags/funstuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with Lego Mindstorm EV3</title>
+      <link>https://tksaha.github.io/post/lego_mindstorm_ev3_1/</link>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/post/lego_mindstorm_ev3_1/</guid>
+      <description>Ruwan and I spend a lot of time together in Starbucks before his defense. He shared his experience s with 3D printer and all other cool stuff he does at home. I visited his home recently and was amazed by his works. His wife also entertained me with the delicious tea. He suggested starting with Lego Mindstorm ev3 as it has nice programming experience module. I bought the toolkit on that day.</description>
+    </item>
+    
+  </channel>
+</rss>

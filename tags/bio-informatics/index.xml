@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio-informatics on Tanay Kumar Saha</title>
+    <link>https://tksaha.github.io/tags/bio-informatics/</link>
+    <description>Recent content in Bio-informatics on Tanay Kumar Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tanay Kumar Saha</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tksaha.github.io/tags/bio-informatics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Analysis and Mining</title>
+      <link>https://tksaha.github.io/project/netanalysis-mining/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/netanalysis-mining/</guid>
+      <description>The main objective of Frequent Subgraph Mining (FSM) is finding subgraph patterns that are frequent across a collection of graphs. Another important task is to find subgraphs which are candidate for motif in a given network. For this, we need to count each topology&amp;rsquo;s frequency in the input network as well as in many randomized networks. Counting a topology&amp;rsquo;s frequency in a single network is a challenging task as it requires solving subgraph isomorphism, a known $NP$-complete problem.</description>
+    </item>
+    
+    <item>
+      <title>Total Recall</title>
+      <link>https://tksaha.github.io/project/totalrecall/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/project/totalrecall/</guid>
+      <description>Total Recall is an important task in supervised text mining. The objective of this task is to find everything about an entity or about a research question. For example, in Technology assisted review (TAR), the objective is to find all the documents relevant to a request for production in a legal matter, whereas, Systematic Review (SR) involves formulating a research question, searching in multiple biomedical databases, identifying relevant Randomized Control Trails (RCTs) based on abstracts and titles (abstract screening) and then based on full texts of a subset thereof, assessing their methodological qualities, extracting different data elements and synthesize them, and finally reporting the conclusions on a particular review question.</description>
+    </item>
+    
+  </channel>
+</rss>

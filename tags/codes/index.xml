@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Tanay Kumar Saha</title>
+    <link>https://tksaha.github.io/tags/codes/</link>
+    <description>Recent content in Codes on Tanay Kumar Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Tanay Kumar Saha</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tksaha.github.io/tags/codes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Releases</title>
+      <link>https://tksaha.github.io/software/code_releases/</link>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/software/code_releases/</guid>
+      <description>Sen2Vec Code,Temporal node2vec Code, Motif Finding Code, Frequent Subgraph Mining Code, Finding Functional Motif Code</description>
+    </item>
+    
+  </channel>
+</rss>
