@@ -6,11 +6,20 @@
     <description>Recent content in Publications on Tanay Kumar Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
+    <copyright>&amp;copy; 2018 Tanay Kumar Saha</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tksaha.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Models for Capturing Temporal Smoothness in Evolving Networks for Learning Latent Representation of Nodes</title>
+      <link>https://tksaha.github.io/publication/evolving_node/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/publication/evolving_node/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CON-S2V: A Generic Framework for Incorporating Extra-Sentential Context into Sen2Vec</title>
@@ -18,7 +27,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tksaha.github.io/publication/cons2v/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +36,16 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tksaha.github.io/publication/func_motif/</guid>
-      <description> </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-S-Cube: A sampling based method for top‐k frequent subgraph mining</title>
+      <link>https://tksaha.github.io/publication/fs3/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/publication/fs3/</guid>
+      <description></description>
     </item>
     
   </channel>

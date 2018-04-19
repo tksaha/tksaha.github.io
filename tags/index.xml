@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tanay Kumar Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tanay Kumar Saha</copyright>
+    <copyright>&amp;copy; 2018 Tanay Kumar Saha</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tksaha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Codes</title>
+      <link>https://tksaha.github.io/tags/codes/</link>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://tksaha.github.io/tags/codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep-learning</title>
       <link>https://tksaha.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -40,20 +49,11 @@
     </item>
     
     <item>
-      <title>Funstuff</title>
-      <link>https://tksaha.github.io/tags/funstuff/</link>
-      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      <title>Git</title>
+      <link>https://tksaha.github.io/tags/git/</link>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://tksaha.github.io/tags/funstuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lego</title>
-      <link>https://tksaha.github.io/tags/lego/</link>
-      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://tksaha.github.io/tags/lego/</guid>
+      <guid>https://tksaha.github.io/tags/git/</guid>
       <description></description>
     </item>
     
@@ -90,15 +90,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://tksaha.github.io/tags/text-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toastmaster</title>
-      <link>https://tksaha.github.io/tags/toastmaster/</link>
-      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://tksaha.github.io/tags/toastmaster/</guid>
       <description></description>
     </item>
     
